@@ -18,3 +18,6 @@ This is because both threads are trying to change the value of the variable _sum
 
 
 
+## Resources
++ https://docs.microsoft.com/en-us/windows/win32/procthread/creating-threads
++ https://en.wikipedia.org/wiki/Race_condition
