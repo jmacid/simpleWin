@@ -1,4 +1,7 @@
 .git
-simpleThread/Debug
 simpleThread/.vs
+simpleThread/Debug
 simpleThread/simpleThread/Debug
+simpleDLL/.vs
+simpleDLL/Debug
+simpleDLL/MathLibrary/Debug
