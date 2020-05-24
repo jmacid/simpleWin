@@ -6,3 +6,5 @@ simpleDLL/.vs
 simpleDLL/Debug
 simpleDLL/MathLibrary/Debug
 simpleDLL/simpleDLL/Debug
+simpleThreadWithMutex/.vs
+simpleThreadWithMutex/Debug
